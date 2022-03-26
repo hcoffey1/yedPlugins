@@ -1,0 +1,3 @@
+[submodule "yed-vimish"]
+	path = yed-vimish
+	url = git@github.com:hcoffey1/yed-vimish.git
